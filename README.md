@@ -21,7 +21,7 @@ Otherwise, BizFinder search WIPO for intellectula property holders in SG
 wipo = BizFinder.WIPO()
 wipo.holdingcoy2brand('BAKEMATRIX')
 ```
-Outputs can be found [in example notebook here](BizFinder/example.ipynb)
+Outputs can be found [in example notebook here](example.ipynb)
 
     
 __Disclaimer__  
